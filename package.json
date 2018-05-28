@@ -1,0 +1,23 @@
+{
+  "name": "angular1.6-base",
+  "version": "1.0.0",
+  "description": "Cette base est destinée aux élèves des cours de d'AngularJs pour s'en servir comme base pour les exercices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "httpster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristenGarnier/angular1.6-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristenGarnier/angular1.6-base/issues"
+  },
+  "homepage": "https://github.com/KristenGarnier/angular1.6-base#readme",
+  "dependencies": {
+    "httpster": "^1.0.3"
+  }
+}
